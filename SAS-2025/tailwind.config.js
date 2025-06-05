@@ -13,6 +13,8 @@ export default {
       'open-sans': ['Open Sans', 'sans-serif'],
       'akaya-kanadaka': ['Akaya Kanadaka', 'cursive'],
       'poetsen-one': ['Poetsen One', 'serif'],
+      'oswald': ['Oswald', 'sans-serif'],
+      'whinky': ['Whinky', 'cursive'],
     },
    
 
